@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @akshara200829-lgtm
+/src/backend/database.py      @akshara200829-lgtm
+/src/backend/routers/auth.py  @akshara200829-lgtm
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @akshara200829-lgtm
